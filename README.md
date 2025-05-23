@@ -1,0 +1,1 @@
+# Password Cracker - BruteForce method without Threading
